@@ -49,3 +49,6 @@ function draw() {
      game.end();
    }
 }
+if(PlayerScore===10){
+  gameState=2
+}
