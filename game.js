@@ -103,6 +103,9 @@ class Game{
                             
                         
                   }
+                  if(player.score===10){
+                      gameState=2
+                  }
                
     }
 
